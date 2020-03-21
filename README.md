@@ -1,6 +1,6 @@
 # Tesla-Stock-Price-Tracker
 
-teslaPython2.py = file explanation:
+teslaPython2.py file explanation (ignore other files):
 
 Python2 script that sends you email whenever there is change is price on tesla stock by the amount you typed (currently 10).
 
